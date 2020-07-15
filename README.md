@@ -1,7 +1,7 @@
 # SLBANQUE
 
 ## Description
-This is Java Application created for operate daily transactions on a bank. 
+This is a Java Application created for operate daily transactions on a bank. 
 
 The Application has the following functionalities:
 - Can record data about client: First Name (Prénom), Last Name (Nom), Address
