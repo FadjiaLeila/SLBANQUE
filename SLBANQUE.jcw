@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>SLBANQUE</label>
+		<id>368</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>SLBANQUE.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>SLBANQUE.jcp</path>
+		</project>
+	</projects>
+</workspace>
